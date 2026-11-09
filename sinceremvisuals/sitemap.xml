@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.sinceremvisuals.com/</loc></url>
-<url><loc>https://www.sinceremvisuals.com/work.html</loc></url>
-<url><loc>https://www.sinceremvisuals.com/services.html</loc></url>
-<url><loc>https://www.sinceremvisuals.com/about.html</loc></url>
-<url><loc>https://www.sinceremvisuals.com/contact.html</loc></url>
+<url><loc>http://sinceremvisuals.com/</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>http://sinceremvisuals.com/services.html</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>http://sinceremvisuals.com/work.html</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>http://sinceremvisuals.com/about.html</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>http://sinceremvisuals.com/contact.html</loc><lastmod>2026-11-09</lastmod></url>
 </urlset>
